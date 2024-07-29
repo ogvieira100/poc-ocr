@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PdfPigConsole", "PdfPigConsole\PdfPigConsole.csproj", "{A3120A25-2023-46AE-B1F3-462E6DFD00FC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PdfSharpCoreConsole", "PdfSharpCoreConsole\PdfSharpCoreConsole.csproj", "{A9B8789A-84C7-4659-9877-09D0754F3FC9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PdfiumViewerConsole", "PdfiumViewerConsole\PdfiumViewerConsole.csproj", "{07BBDE6D-0079-47DB-9055-1984E2509C34}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "iText7Console", "iText7Console\iText7Console.csproj", "{457AAAAF-1548-43A3-B507-F14AE6D09E63}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenXMLSDK", "OpenXMLSDK\OpenXMLSDK.csproj", "{8A372F95-2407-40E2-94F2-A3F1D49E19CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesseractOCRConsole", "TesseractOCRConsole\TesseractOCRConsole.csproj", "{D14031E1-C45C-41B1-85D0-D28D68D48C8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LlamaConsole", "LlamaConsole\LlamaConsole.csproj", "{D6FD8530-EDF6-447F-BCB1-157AE05D70D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3120A25-2023-46AE-B1F3-462E6DFD00FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3120A25-2023-46AE-B1F3-462E6DFD00FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3120A25-2023-46AE-B1F3-462E6DFD00FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3120A25-2023-46AE-B1F3-462E6DFD00FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9B8789A-84C7-4659-9877-09D0754F3FC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9B8789A-84C7-4659-9877-09D0754F3FC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9B8789A-84C7-4659-9877-09D0754F3FC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9B8789A-84C7-4659-9877-09D0754F3FC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07BBDE6D-0079-47DB-9055-1984E2509C34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07BBDE6D-0079-47DB-9055-1984E2509C34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07BBDE6D-0079-47DB-9055-1984E2509C34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07BBDE6D-0079-47DB-9055-1984E2509C34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{457AAAAF-1548-43A3-B507-F14AE6D09E63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{457AAAAF-1548-43A3-B507-F14AE6D09E63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{457AAAAF-1548-43A3-B507-F14AE6D09E63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{457AAAAF-1548-43A3-B507-F14AE6D09E63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A372F95-2407-40E2-94F2-A3F1D49E19CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A372F95-2407-40E2-94F2-A3F1D49E19CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A372F95-2407-40E2-94F2-A3F1D49E19CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A372F95-2407-40E2-94F2-A3F1D49E19CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D14031E1-C45C-41B1-85D0-D28D68D48C8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D14031E1-C45C-41B1-85D0-D28D68D48C8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D14031E1-C45C-41B1-85D0-D28D68D48C8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D14031E1-C45C-41B1-85D0-D28D68D48C8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6FD8530-EDF6-447F-BCB1-157AE05D70D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6FD8530-EDF6-447F-BCB1-157AE05D70D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6FD8530-EDF6-447F-BCB1-157AE05D70D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6FD8530-EDF6-447F-BCB1-157AE05D70D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CEE2B75-18B4-4913-94E4-EDD0EA537E7D}
+	EndGlobalSection
+EndGlobal
