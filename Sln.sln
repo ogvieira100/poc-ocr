@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "iText7Console", "iText7Cons
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenXMLSDK", "OpenXMLSDK\OpenXMLSDK.csproj", "{8A372F95-2407-40E2-94F2-A3F1D49E19CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesseractOCRConsole", "TesseractOCRConsole\TesseractOCRConsole.csproj", "{D14031E1-C45C-41B1-85D0-D28D68D48C8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TesseractOCRConsole", "TesseractOCRConsole\TesseractOCRConsole.csproj", "{D14031E1-C45C-41B1-85D0-D28D68D48C8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LlamaConsole", "LlamaConsole\LlamaConsole.csproj", "{D6FD8530-EDF6-447F-BCB1-157AE05D70D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LlamaConsole", "LlamaConsole\LlamaConsole.csproj", "{D6FD8530-EDF6-447F-BCB1-157AE05D70D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocXConsole", "DocXConsole\DocXConsole.csproj", "{83FFCBAB-B280-487C-AEBC-19F1267C4BE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{D6FD8530-EDF6-447F-BCB1-157AE05D70D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6FD8530-EDF6-447F-BCB1-157AE05D70D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6FD8530-EDF6-447F-BCB1-157AE05D70D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83FFCBAB-B280-487C-AEBC-19F1267C4BE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83FFCBAB-B280-487C-AEBC-19F1267C4BE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83FFCBAB-B280-487C-AEBC-19F1267C4BE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83FFCBAB-B280-487C-AEBC-19F1267C4BE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
